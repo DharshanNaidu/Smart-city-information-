@@ -1,0 +1,170 @@
+{
+    "electricity": [
+        {
+            "date": "2024-12-30",
+            "area": "Sector 1",
+            "status": "Outage",
+            "restoration_time": "3 hours"
+        },
+        {
+            "date": "2024-12-31",
+            "area": "Sector 2",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-01",
+            "area": "Sector 3",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-02",
+            "area": "Sector 4",
+            "status": "Outage",
+            "restoration_time": "3 hours"
+        },
+        {
+            "date": "2025-01-03",
+            "area": "Sector 5",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-04",
+            "area": "Sector 6",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-05",
+            "area": "Sector 7",
+            "status": "Outage",
+            "restoration_time": "3 hours"
+        },
+        {
+            "date": "2025-01-06",
+            "area": "Sector 8",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-07",
+            "area": "Sector 9",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-08",
+            "area": "Sector 10",
+            "status": "Outage",
+            "restoration_time": "3 hours"
+        }
+    ],
+    "water": [
+        {
+            "date": "2024-12-30",
+            "area": "Sector 5",
+            "status": "Outage",
+            "restoration_time": "2 hours"
+        },
+        {
+            "date": "2024-12-31",
+            "area": "Sector 6",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-01",
+            "area": "Sector 7",
+            "status": "Outage",
+            "restoration_time": "2 hours"
+        },
+        {
+            "date": "2025-01-02",
+            "area": "Sector 8",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-03",
+            "area": "Sector 9",
+            "status": "Outage",
+            "restoration_time": "2 hours"
+        },
+        {
+            "date": "2025-01-04",
+            "area": "Sector 10",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-05",
+            "area": "Sector 11",
+            "status": "Outage",
+            "restoration_time": "2 hours"
+        },
+        {
+            "date": "2025-01-06",
+            "area": "Sector 12",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-07",
+            "area": "Sector 13",
+            "status": "Outage",
+            "restoration_time": "2 hours"
+        },
+        {
+            "date": "2025-01-08",
+            "area": "Sector 14",
+            "status": "Operational"
+        }
+    ],
+    "internet": [
+        {
+            "date": "2024-12-30",
+            "area": "Sector 3",
+            "status": "Outage",
+            "restoration_time": "4 hours"
+        },
+        {
+            "date": "2024-12-31",
+            "area": "Sector 4",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-01",
+            "area": "Sector 5",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-02",
+            "area": "Sector 6",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-03",
+            "area": "Sector 7",
+            "status": "Outage",
+            "restoration_time": "4 hours"
+        },
+        {
+            "date": "2025-01-04",
+            "area": "Sector 8",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-05",
+            "area": "Sector 9",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-06",
+            "area": "Sector 10",
+            "status": "Operational"
+        },
+        {
+            "date": "2025-01-07",
+            "area": "Sector 11",
+            "status": "Outage",
+            "restoration_time": "4 hours"
+        },
+        {
+            "date": "2025-01-08",
+            "area": "Sector 12",
+            "status": "Operational"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "event": "Music Festival",
+        "date": "2024-12-30",
+        "location": "Central Park",
+        "time": "6:00 PM"
+    },
+    {
+        "event": "Tech Meetup",
+        "date": "2024-12-31",
+        "location": "Tech Hub",
+        "time": "7:00 PM"
+    },
+    {
+        "event": "Music Festival",
+        "date": "2025-01-01",
+        "location": "Central Park",
+        "time": "8:00 PM"
+    },
+    {
+        "event": "Tech Meetup",
+        "date": "2025-01-02",
+        "location": "Tech Hub",
+        "time": "9:00 PM"
+    },
+    {
+        "event": "Music Festival",
+        "date": "2025-01-03",
+        "location": "Central Park",
+        "time": "10:00 PM"
+    },
+    {
+        "event": "Tech Meetup",
+        "date": "2025-01-04",
+        "location": "Tech Hub",
+        "time": "11:00 PM"
+    },
+    {
+        "event": "Music Festival",
+        "date": "2025-01-05",
+        "location": "Central Park",
+        "time": "6:00 PM"
+    },
+    {
+        "event": "Tech Meetup",
+        "date": "2025-01-06",
+        "location": "Tech Hub",
+        "time": "7:00 PM"
+    },
+    {
+        "event": "Music Festival",
+        "date": "2025-01-07",
+        "location": "Central Park",
+        "time": "8:00 PM"
+    },
+    {
+        "event": "Tech Meetup",
+        "date": "2025-01-08",
+        "location": "Tech Hub",
+        "time": "9:00 PM"
+    }
+]

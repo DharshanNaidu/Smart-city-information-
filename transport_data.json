@@ -1,0 +1,160 @@
+{
+    "routes": {
+        "downtown": [
+            {
+                "date": "2024-12-30",
+                "next_bus": "6:15 AM",
+                "stop": "Stop A"
+            },
+            {
+                "date": "2024-12-31",
+                "next_bus": "7:15 AM",
+                "stop": "Stop B"
+            },
+            {
+                "date": "2025-01-01",
+                "next_bus": "8:15 AM",
+                "stop": "Stop C"
+            },
+            {
+                "date": "2025-01-02",
+                "next_bus": "9:15 AM",
+                "stop": "Stop A"
+            },
+            {
+                "date": "2025-01-03",
+                "next_bus": "10:15 AM",
+                "stop": "Stop B"
+            },
+            {
+                "date": "2025-01-04",
+                "next_bus": "11:15 AM",
+                "stop": "Stop C"
+            },
+            {
+                "date": "2025-01-05",
+                "next_bus": "12:15 AM",
+                "stop": "Stop A"
+            },
+            {
+                "date": "2025-01-06",
+                "next_bus": "13:15 AM",
+                "stop": "Stop B"
+            },
+            {
+                "date": "2025-01-07",
+                "next_bus": "14:15 AM",
+                "stop": "Stop C"
+            },
+            {
+                "date": "2025-01-08",
+                "next_bus": "15:15 AM",
+                "stop": "Stop A"
+            }
+        ],
+        "uptown": [
+            {
+                "date": "2024-12-30",
+                "next_bus": "3:45 PM",
+                "stop": "Stop D"
+            },
+            {
+                "date": "2024-12-31",
+                "next_bus": "4:45 PM",
+                "stop": "Stop E"
+            },
+            {
+                "date": "2025-01-01",
+                "next_bus": "5:45 PM",
+                "stop": "Stop F"
+            },
+            {
+                "date": "2025-01-02",
+                "next_bus": "6:45 PM",
+                "stop": "Stop D"
+            },
+            {
+                "date": "2025-01-03",
+                "next_bus": "7:45 PM",
+                "stop": "Stop E"
+            },
+            {
+                "date": "2025-01-04",
+                "next_bus": "8:45 PM",
+                "stop": "Stop F"
+            },
+            {
+                "date": "2025-01-05",
+                "next_bus": "9:45 PM",
+                "stop": "Stop D"
+            },
+            {
+                "date": "2025-01-06",
+                "next_bus": "10:45 PM",
+                "stop": "Stop E"
+            },
+            {
+                "date": "2025-01-07",
+                "next_bus": "11:45 PM",
+                "stop": "Stop F"
+            },
+            {
+                "date": "2025-01-08",
+                "next_bus": "12:45 PM",
+                "stop": "Stop D"
+            }
+        ],
+        "suburb": [
+            {
+                "date": "2024-12-30",
+                "next_bus": "5:30 AM",
+                "stop": "Stop G"
+            },
+            {
+                "date": "2024-12-31",
+                "next_bus": "6:30 AM",
+                "stop": "Stop H"
+            },
+            {
+                "date": "2025-01-01",
+                "next_bus": "7:30 AM",
+                "stop": "Stop I"
+            },
+            {
+                "date": "2025-01-02",
+                "next_bus": "8:30 AM",
+                "stop": "Stop G"
+            },
+            {
+                "date": "2025-01-03",
+                "next_bus": "9:30 AM",
+                "stop": "Stop H"
+            },
+            {
+                "date": "2025-01-04",
+                "next_bus": "10:30 AM",
+                "stop": "Stop I"
+            },
+            {
+                "date": "2025-01-05",
+                "next_bus": "11:30 AM",
+                "stop": "Stop G"
+            },
+            {
+                "date": "2025-01-06",
+                "next_bus": "12:30 AM",
+                "stop": "Stop H"
+            },
+            {
+                "date": "2025-01-07",
+                "next_bus": "13:30 AM",
+                "stop": "Stop I"
+            },
+            {
+                "date": "2025-01-08",
+                "next_bus": "14:30 AM",
+                "stop": "Stop G"
+            }
+        ]
+    }
+}
